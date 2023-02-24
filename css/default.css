@@ -4630,7 +4630,7 @@ button.bg-light:focus {
   background-color: #cfd6db !important; }
 
 .bg-dark {
-  background-color: #11171a !important; }
+  background-color: #11171a; }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
@@ -7280,7 +7280,7 @@ a.text-success:hover, a.text-success:focus {
   color: #00b35c !important; }
 
 .text-info {
-  color: #00e5ff !important; }
+  color: #1de9b6  !important; }
 
 a.text-info:hover, a.text-info:focus {
   color: #00b7cc !important; }
@@ -7585,7 +7585,7 @@ body {
     left: 0;
     top: 0;
     content: "";
-    background-color: rgba(0, 0, 0, 0.7); }
+    background-color: #012334; }
   .bg-hero .container {
     z-index: 2;
     position: relative; }
